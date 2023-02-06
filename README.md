@@ -2,7 +2,7 @@
 
 # Oasis Infobyte
 
-Data Science Internship
+# Data Science Internship
 
 Task 3:
 
