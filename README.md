@@ -4,6 +4,6 @@
 
 # Data Science Internship
 
-Task 3:
+Task 5:
 
-Car Price Prediction with Machine Learning.
+Sales Prediction using Python.
